@@ -18,7 +18,7 @@ links: []
 image:
   caption: ""
   focal_point: Smart
-  filename: https://www.researchgate.net/publication/352758588/figure/fig5/AS:1038800209862656@1624680678520/Qualitative-comparison-of-seismic-instruments-for-earthquake-rapid-response-scored-in.png
+  filename: qualitative-comparison-of-seismic-instruments-for-earthquake-rapid-response-scored-in.png
 url_code: ""
 ---
 The occurrence of new land seismic nodal acquisition significantly improves the ability to illuminate the Earth and allows us to delineate the subsurface structures with an unprecedented resolution. Using the seismic data recorded from dense seismic nodal arrays in South China, to determine the crustal velocity structures utilizing ambient noise surface wave tomography and study their implications for tectonic evolution and mineral resource formation, which occupy the majority of my PhD research.
