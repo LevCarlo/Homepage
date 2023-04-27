@@ -15,7 +15,7 @@ authors:
   - Yongqian Zhang
   - José Badal
 doi: 10.1093/gji/ggac337
-publication: Geophysical Journal International, 2023
+publication: Geophysical Journal International
 draft: false
 featured: true
 tags:
