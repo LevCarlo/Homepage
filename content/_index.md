@@ -50,21 +50,25 @@ sections:
           date_start: '2022-05-05'
           date_end: ''
           description: |2-
-              Work with Prof. Shen Weisen
+              Study as an exchange student under the supervision of Weisen Shen
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: PhD
+        - title: Ph.D.
           company: Institute of Geology and Geophysics, Chinese Academy of Sciences
           # company_url: ''
           # company_logo: org-x
           location: Beijing,CN
           date_start: '2018-09-01'
           date_end: '2023-06-01'
-          description: Pursuing a e degree of Doctor of Philosophy in Solid-Earth Geophy
+          description: Pursuing a degree of Doctor of Philosophy in Solid-Earth Geophysics
+
+        - title: B.S.
+          company: Institute of Geology and Geophysics, Chinese Academy of Sciences
+          location: Beijing,CN
+          date_start: '2018-09-01'
+          date_end: '2023-06-01'
+          description: Pursuing a e degree of Bachelor of Philosophy in Solid-Earth Geophysics
     design:
-      columns: '2'
+      columns: '3'
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
