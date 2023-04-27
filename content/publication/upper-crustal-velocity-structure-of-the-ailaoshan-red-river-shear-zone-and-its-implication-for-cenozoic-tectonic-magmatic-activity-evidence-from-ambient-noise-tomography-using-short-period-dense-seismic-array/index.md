@@ -12,7 +12,7 @@ authors:
 doi: 10.1016/j.pepi.2021.106643
 publication: Physics of the Earth and Planetary Interiors
 draft: false
-featured: false
+featured: true
 tags:
   - AmbientNoiseTomography
 image:
