@@ -16,7 +16,7 @@ authors:
   - José Badal
 doi: 10.1093/gji/ggac337
 draft: false
-featured: false
+featured: true
 tags:
   - SeismicNodalArray
   - AmbientNoiseTomography
