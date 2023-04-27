@@ -50,7 +50,7 @@ sections:
           date_start: '2022-05-05'
           date_end: ''
           description: |2-
-              Study as an exchange student under the supervision of Weisen Shen
+              Studying as an exchange student under the supervision of Weisen Shen
 
         - title: Ph.D.
           company: Institute of Geology and Geophysics, Chinese Academy of Sciences
