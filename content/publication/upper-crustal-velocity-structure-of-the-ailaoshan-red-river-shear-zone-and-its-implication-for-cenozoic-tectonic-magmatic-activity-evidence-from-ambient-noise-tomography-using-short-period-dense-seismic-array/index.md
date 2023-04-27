@@ -10,7 +10,7 @@ authors:
   - Tao Xu
   - José Badal
 doi: 10.1016/j.pepi.2021.106643
-publication: Physics of the Earth and Planetary Interiors, 2021
+publication: Physics of the Earth and Planetary Interiors
 draft: false
 featured: false
 tags:
@@ -19,5 +19,5 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2023-04-27T02:19:11.809Z
+date: 2021-01-20T18:18:00.000Z
 ---
