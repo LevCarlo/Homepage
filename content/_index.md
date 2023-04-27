@@ -68,7 +68,7 @@ sections:
           date_end: '2023-06-01'
           description: Pursuing a e degree of Bachelor of Philosophy in Solid-Earth Geophysics
     design:
-      columns: '3'
+      columns: '2'
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
