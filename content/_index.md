@@ -44,7 +44,7 @@ sections:
       items:
         - title: Visiting Scholar
           company: Stony Brook University
-          # company_url: ''
+          company_url: 'https://www.stonybrook.edu/'
           # company_logo: org-gc
           location: NewYork,US
           date_start: '2022-05-05'
@@ -54,7 +54,7 @@ sections:
 
         - title: Ph.D.
           company: Institute of Geology and Geophysics, Chinese Academy of Sciences
-          # company_url: ''
+          company_url: 'http://english.igg.cas.cn/'
           # company_logo: org-x
           location: Beijing,CN
           date_start: '2018-09-01'
@@ -62,10 +62,11 @@ sections:
           description: Pursuing a degree of Doctor of Philosophy in Solid-Earth Geophysics
 
         - title: B.S.
-          company: Institute of Geology and Geophysics, Chinese Academy of Sciences
+          company: China University of Mining and Technology (Beijing)
+          company_url: 'https://english.cumtb.edu.cn/'
           location: Beijing,CN
-          date_start: '2018-09-01'
-          date_end: '2023-06-01'
+          date_start: '2014-09-01'
+          date_end: '2018-06-01'
           description: Pursuing a e degree of Bachelor of Philosophy in Solid-Earth Geophysics
     design:
       columns: '2'
