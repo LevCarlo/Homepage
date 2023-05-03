@@ -50,7 +50,7 @@ sections:
           date_start: '2022-05-05'
           date_end: ''
           description: |2-
-              Studying as an exchange student under the supervision of Weisen Shen
+              Studying as an exchange student under the supervision of Prof. [Shen Weisen](https://sites.google.com/view/weisen)
 
         - title: Ph.D.
           company: Institute of Geology and Geophysics, Chinese Academy of Sciences
@@ -67,7 +67,7 @@ sections:
           location: Beijing,CN
           date_start: '2014-09-01'
           date_end: '2018-06-01'
-          description: Pursuing a e degree of Bachelor of Philosophy in Solid-Earth Geophysics
+          description: Pursuing a degree of Bachelor of Philosophy in Solid-Earth Geophysics
     design:
       columns: '2'
   # - block: accomplishments
@@ -188,7 +188,7 @@ sections:
       title: Recent Publications
       text: |-
         {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
+        For more publications see [More publications](./publication/).
         {{% /callout %}}
       filters:
         folders:
