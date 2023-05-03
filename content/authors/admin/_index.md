@@ -1,5 +1,5 @@
 ---
-title: Mengjie(Michael) Zheng 郑孟杰
+title: Mengjie(Moss) Zheng 郑孟杰
 role: PhD of Observational Seismology
 avatar_filename: avatar.jpg
 bio: My research interests include seismic nodal array, continental crust and
