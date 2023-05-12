@@ -1,4 +1,6 @@
 ---
+title: Mengjie(Moonjay) Zheng 郑孟杰
+role: "PhD of Solid-Earth Geophysics "
 avatar_filename: avatar.jpg
 bio: My research interests include seismic nodal array, continental crust and
   mantle imaging and subduction zone studies.
@@ -13,12 +15,14 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=7IzAGfwAAAAJ&hl=zh-CN
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/LevCarlo
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Mengjie-Zheng-4
+  - display:
+      header: false
+    link: https://orcid.org/0000-0001-8962-5442
+    icon_pack: fab
+    icon: orcid
   - icon: cv
     icon_pack: ai
     link: uploads/CV_MengjieZheng.pdf
@@ -31,9 +35,7 @@ superuser: true
 status:
   icon: ☕️
 last_name: Wu
-role: "PhD of Solid-Earth Geophysics "
 highlight_name: true
-title: Mengjie(Moonjay) Zheng 郑孟杰
 first_name: Alice
 email: ""
 ---
