@@ -16,6 +16,7 @@ authors:
   - José Badal
 doi: 10.1093/gji/ggac337
 publication: Geophysical Journal International
+publication_short: 232(1), 190-200
 draft: false
 featured: true
 tags:
