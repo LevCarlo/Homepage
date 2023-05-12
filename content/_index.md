@@ -220,7 +220,7 @@ sections:
       text: |-
       #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # # Contact (add or remove contact options as necessary)
-      email: zhengmengjie18@mails.ucas.ac.cn
+      email: zhengmengjie18@mails.ucas.ac.cn, mengjie.zheng@colorado.edu 
       phone: +1 6316825042
       # # appointment_url: 'https://calendly.com'
       # address:
