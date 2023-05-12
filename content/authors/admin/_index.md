@@ -1,6 +1,4 @@
 ---
-title: Mengjie(Moss) Zheng 郑孟杰
-role: PhD of Observational Seismology
 avatar_filename: avatar.jpg
 bio: My research interests include seismic nodal array, continental crust and
   mantle imaging and subduction zone studies.
@@ -33,7 +31,9 @@ superuser: true
 status:
   icon: ☕️
 last_name: Wu
+role: "PhD of Solid-Earth Geophysics "
 highlight_name: true
+title: Mengjie(Moonjay) Zheng 郑孟杰
 first_name: Alice
 email: ""
 ---
